@@ -1,7 +1,3 @@
-# typescript-apollo
-Tutorial for HowToGraphQL with Typescript, Apollo-Server, Nexus and Prisma.
-
-
 ### Installation
 
 1. Install dependencies: `npm install`
